@@ -1,0 +1,648 @@
+@media only screen and (max-width:1400px){
+    .banner .banner-content h1 {
+        font-size: 80px;
+    }
+    .title-wrapper.text-center {
+        padding-inline: 0;
+        width: 70%;
+        margin: 0 auto;
+    }
+    .counter-galleri  .title-wrapper {
+        width: 70%;
+        margin: 0 auto;
+        padding-block-start: 100px;
+    }
+    .world-class-services {
+        padding-block-start: 110px;
+    }
+    .counter-galleri  .title-wrapper {
+        width: 65%;
+    }
+    .parsle-package {
+        opacity: 0.5;
+    }
+    .your-entire-shipment .title-wrapper.text-center {
+        padding-inline: 0;
+    }
+    .world-class-services .col-lg-6.rt-box .container-image {
+        width: 70%;
+        margin: 0 0 0 100px;
+    }
+    .world-class-services .col-lg-6.rt-box .small-img {
+        bottom: 10%;
+        top: 41%;
+    }
+    .world-class-services .col-lg-6.rt-box .service-time {
+        left: 8%;
+    }
+    .world-class-services .col-lg-6.lt-box {
+        padding-inline-end: 0;
+    }
+    .world-class-services .col-lg-6.rt-box::after {
+        width: 10px;
+    }
+    .your-entire-shipment .col-lg-7 .box p {
+        font-size: 13px;
+
+    }
+}
+    @media only screen and (max-width:1200px){
+        .main-header .shop a {
+            font-size: 20px;
+        }
+        .main-header .search a {
+            font-size: 20px;
+            color: #fff;
+        }
+        .banner .banner-content .lt-block-content {
+            width: 70%;
+            position: relative;
+        }
+        .banner .banner-content h1 {
+            font-size: 70px;
+        }
+        .banner .banner-content p {
+            padding-block-start: 20px;
+            padding-inline-end: 80px;
+        }
+        .banner .banner-content .Request-a-quate {
+            margin-block-start: 20px;
+        }
+        .world-class-services .col-lg-6.rt-box i.bi.bi-airplane {
+            font-size: 40px;
+        }
+        .world-class-services .col-lg-6.rt-box .service-time {
+            width: 150px;
+            height: 150px;
+        }
+        .counter-galleri {
+            margin-block-start: 0;
+        }
+        .world-class-services .col-lg-6.rt-box::after {
+            height: 110px;
+        }
+        .world-class-services .col-lg-6.rt-box .small-img {
+            bottom: 10%;
+            top: 35%;
+            width: 40%;
+        }
+        .world-class-services .col-lg-6.rt-box .small-img img{
+            width: 100%;
+        }
+        .counter-galleri {
+            padding-block-start: 140px;
+        }
+        .your-entire-shipment .col-lg-3 .box .image-box img{
+            width: 124% !important;
+        } 
+        .testimonial .title-wrapper.text-center {
+            padding-inline: 0;
+            width: 70%;
+            margin: 0 auto;
+        }
+        .faqs .content-box {
+            padding-block-start: 25px;
+            background-color: var(--white);
+            padding-inline: 30px;
+            padding-block-end: 70px;
+        }
+        .blog .box .bottom-block {
+            padding-inline: 0px;
+            padding-block-end: 40px;
+        }
+        footer .title {
+            font-size: 20px;
+            font-weight: 700;
+            text-align: center;
+        }
+        footer ul{
+            text-align: center;
+        }
+    }
+
+    @media only screen and (max-width:991px){
+        .banner .banner-content .lt-block-content {
+            width: 100%;
+            position: relative;
+        }
+        .header_section .top-header {
+            display: none!important;
+        }
+        .logo {
+            padding-block: 0;
+            padding-inline: 0;
+            background:none;
+        }
+        .banner .container {
+            max-width: 100%!important;
+            padding-inline: 35px;
+        }
+        .title-wrapper.text-center {
+            padding-inline: 0;
+            width: 100%;
+            margin: 0 auto;
+        }
+        .title-wrapper h2 {
+            font-size: 40px;
+        }
+        .slider .inner-content h4 {
+            font-size: 20px;
+        }
+        .world-class-services .personal-detials {
+            margin-block-start: 50px;
+        }
+        .world-class-services p {
+            padding-block-end: 40px;
+        }
+        .counter-galleri .counter-box span {
+            font-size: 35px;
+            font-weight: 600;
+        }
+        .counter-box.text-white {
+            gap: 0;
+        }
+        .counter-galleri .counter-box span {
+            font-size: 35px;
+            font-weight: 600;
+        }
+        .countries-serving .row .box {
+            margin-block-end: 20px;
+        }
+        .worldclass-business {
+            padding-block-start: 70px;
+        }
+        .worldclass-business .col-lg-8 .all-content {
+            padding-block-start: 50px;
+        }
+        .your-entire-shipment .col-lg-3 .box .image-box img {
+            width: 100%!important;
+        }
+        img.w-100.defult-img {
+            display: none;
+        }
+        img.w-100.set-img {
+            display: block;
+        }
+        .your-entire-shipment .col-lg-3 .box {
+            overflow: hidden;
+            padding-inline-start: 0;
+        }
+        .video-block {
+            width: 50%;
+            margin: 0 auto;
+            padding-block: 50px;
+        }
+        .transport-shipping {
+            background-image: url(../../assets/images/transport-shipping-bg.png);
+            width: 100%;
+            background-repeat: no-repeat;
+            padding-block-start: 60px;
+            margin-block-start: 0;
+            padding-block-end: 0;
+        }
+        .testimonial {
+            padding-block-start: 80px;
+        }
+        .faqs::after {
+            position: absolute;
+            content: "";
+            top: 34%;
+            background-image: url(../../assets/images/form-bg.png);
+            width: 100%;
+            height: 100%;
+            z-index: -1;
+            background-repeat: no-repeat;
+            background-position: right;
+            background-size: contain;
+        }
+        .blog {
+            padding-block-start: 80px;
+            padding-block-end: 80px;
+        }
+        .blog .box .bottom-block {
+            padding-inline: 20px;
+            padding-block-end: 40px;
+            box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+        }
+        .blog .box {
+            background-color: var(--white);
+            border-bottom: 3px solid #F3F4F7;
+            margin-block-end: 40px;
+        }
+        .blog {
+            padding-block-start: 80px;
+            padding-block-end: 50px;
+        }
+        footer .title {
+            font-size: 20px;
+            font-weight: 700;
+            text-align: left;
+        }
+        footer ul {
+            text-align: left;
+        }
+    }
+
+
+    @media only screen and (max-width:860px){
+        .car-image-block {
+            animation: shake 5.5s linear infinite alternate;
+            position: relative;
+            top: 20%;
+            right: -34px;
+        }
+        .banner .banner-content h1 {
+            font-size: 58px;
+        }
+    }
+
+
+    @media only screen and (max-width:800px){
+        .main-header .rt-block {
+            gap: 30px;
+            display: none!important;
+        }
+    }
+
+
+    @media only screen and (max-width:767px){
+        .banner {
+            background-image: url(../../assets/images/banner-img.jpg);
+            width: 100%;
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+            padding-top: 50px;
+            padding-block-end: 230px;
+            
+        }
+        .banner .banner-content h1 {
+            font-size: 50px;
+        }
+        .banner .banner-content .lt-block-content {
+            width: 100%;
+            position: relative;
+            text-align: center;
+            z-index: 2;
+        }
+        .car-image-block {
+            animation: shake 5.5s linear infinite alternate;
+            position: absolute;
+            width: 50%;
+            left: 2%;
+            top: 9%;
+            /* margin: 0 auto; */
+            opacity: 0.4;
+            z-index: 1;
+        }
+        .banner .banner-content span img {
+            padding: 15px;
+            background-color: var(--orange);
+        }
+        .title-wrapper h2 {
+            font-size: 35px;
+        }
+        .world-class-services {
+            padding-block-start: 70px;
+        }
+        
+        .counter-galleri .col-lg-4.col-md-4{
+            width: 45%!important;
+        }
+        .counter-galleri .col-lg-4.col-md-4 {
+            width: 45%!important;
+            margin-block-end: 65px;
+        }
+        .counter-galleri  .title-wrapper {
+            padding-block-start: 40px;
+        }
+        .gallery-slider .shape {
+            position: absolute;
+            bottom: 5%;
+            left: 50%;
+            transform: translate(-50%, 0);
+        }
+        .gallery-slider .image-box {
+            width: 60%;
+            margin: 0 auto;
+        }
+        .ship-img {
+            width: 70%;
+            margin: 0 auto;
+        }
+        .countries-serving {
+            padding-block-start: 90px;
+        }
+        .transport-shipping .text-content h2 {
+            font-size: 35px;
+            font-weight: 700;
+            color: var(--white);
+            padding-block-start: 8px;
+        }
+        .ship-img {
+            width: 70%;
+            margin: 0 auto;
+        }
+        .your-entire-shipment .image-box{
+            height: 350px;
+        }
+        .your-entire-shipment .image-box img{
+            height: 100%;
+            object-fit: cover;
+        }
+        footer .logo-block {
+            width: 70%;
+        }
+        footer .logo-block img{
+            width: 100%;
+        }
+        .main-header .rt-block {
+            gap: 30px;
+            padding-block-end: 35px;
+        }
+        nav .navbar {
+            max-width: 100%;
+            padding: 25px 25px;
+        }
+        .counter-box.text-white {
+            gap: 30px;
+        }
+        .faqs::after {
+            top: 40%;
+        }
+        .counter-galleri .title-wrapper h2 {
+            font-size: 35px;
+            width: 70%;
+            margin: 0 auto;
+        }
+        .gallery-slider {
+            padding-block-start: 45px;
+        }
+        .your-entire-shipment .col-lg-3 .box .text-content::after {
+            position: absolute;
+            content: "";
+            width: 100%;
+            height: 100%;
+            background-color: #02020291;
+            top: 0;
+            left: 0;
+            z-index: -1;
+        }
+        .slider .box .image-box {
+            width: 100%;
+            margin: 0 -20px;
+            overflow: hidden;
+        }
+        .slider .inner-content {
+            left: 0;
+        }
+        .world-class-services .personal-detials {
+            margin-block-start: 50px;
+            width: 90%;
+        }
+        section.world-class-services {
+            overflow-x: hidden;
+        }
+        section.your-entire-shipment {
+            overflow-x: hidden;
+        }
+    }
+
+
+    @media only screen and (max-width:576px){
+        footer {
+            background-image: linear-gradient(90deg, rgba(5, 5, 5, 0.5494572829131652) 0%, rgb(9 40 67 / 92%) 0%), url(../../assets/images/footer-bg-3.png);
+            padding-block-start: 55px;
+        }
+        footer .logo-block {
+            width: 45%;
+        }
+    }
+
+
+    @media only screen and (max-width:480px){
+        .banner {
+            padding-block-end: 300px;
+        }
+        .banner .banner-content span img {
+            padding: 10px;
+        }
+        .banner .banner-content h1 {
+            font-size: 45px;
+        }
+        .banner .banner-content p {
+            font-size: 14px;
+        }
+        .banner .banner-content p {
+            padding-block-start: 20px;
+            padding-inline-end: 0;
+        }
+        .what-we-do {
+            margin-block-start: -100px;
+            z-index: 3;
+        }
+        .title-wrapper h2 {
+            font-size: 30px;
+        }
+        .world-class-services {
+            padding-block-start: 40px;
+        }
+        .world-class-services .personal-detials {
+            margin-block-start: 50px;
+            width: 90%;
+            /* margin: 0 auto; */
+        }
+        .faqs form .input-flex-box .box {
+            width: 100%;
+        }
+        .faqs input {
+            margin-block-end: 22px!important;
+        }
+        .company .box {
+            width: 50%;
+            margin: 0 auto;
+        }
+        .company .box img{
+            width: 100%;
+            object-fit: cover;
+        }
+        .company .slick-dots{
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            list-style: none;
+            background: transparent;
+            padding-block-start: 100px;
+            margin-block-start: -50px;
+        }
+        .company {
+            background-color: #EBF1F5;
+            padding-block: 71px;
+            margin-block-start: 40px;
+        }
+        .slick-dots li button {
+            display: flex;
+            width: 15px;
+            height: 15px;
+            border-radius: 50%;
+            background: #E7E7E7;
+            justify-content: center;
+            align-items: center;
+            border: 0;
+            font-size: 0;
+        }
+        .transport-shipping .bottom-content {
+            flex-direction: column;
+        }
+        .transport-shipping .bottom-content .supply-solution {
+            width: 100%;
+        }
+        .gallery-slider .shape .title a {
+            font-size: 18px;
+        }
+        .slider .inner-content {
+            width: 90%;
+        }
+        .parsle-package {
+            opacity: 0.2;
+            width: 50%;
+        }
+        .parsle-package img{
+            width: 100%;
+        }
+        .skills-bar-wrapper .skill {
+            margin-bottom: 30px;
+            position: relative;
+            overflow-x: hidden;
+        }
+        .your-entire-shipment .title-wrapper h2 {
+            font-size: 30px;
+            padding-inline: 20px;
+        }
+        .your-entire-shipment {
+            padding-block-start: 60px;
+            padding-block-end: 70px;
+            margin-block-start: 40px;
+        }
+        .your-entire-shipment .col-lg-3 .box .text-content h4 {
+            font-size: 27px;
+        }
+        .logo {
+            width: 180px;
+        }
+        .gallery-slider .image-box {
+            width: 100%;
+            margin: 0 -20px;
+        }
+        .counter-galleri .title-wrapper h2 {
+            font-size: 30px;
+        }
+        .slick-dots {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            list-style: none;
+            background: none;
+            padding-block-start: 100px;
+            margin-block-start: 0;
+            padding-block: 29px;
+        }
+        .faqs::after {
+            top: 40%;
+            display: none;
+        }
+        .company {
+            background-color: #EBF1F5;
+            padding-block: 60px;
+            margin-block-start: 0;
+        }
+        footer .logo-block {
+            width: 55%;
+        }
+        nav .navbar .nav-links {
+            max-width: 65%;
+        }
+        
+    }
+
+
+    @media only screen and (max-width:400px){
+        .banner .banner-content h5 {
+            font-size: 18px;
+        }
+        .banner .banner-content h1 {
+            font-size: 40px;
+        }
+        .Request-a-quate a {
+           padding-block: 14px;
+            padding-inline: 28px;
+        }
+        .title-wrapper h2 {
+            font-size: 25px;
+        }
+        span.truck-icon {
+            font-size: 25px;
+            padding: 18px;
+        }
+        .slider .inner-content h4 {
+            font-size: 18px;
+        }
+        .slider .inner-content .right-arrow {
+            padding: 14px;
+        }
+        .what-we-do ul.slick-dots {
+            padding: 0;
+            margin-block-start: 30px;
+            background-color: transparent;
+        }
+        .world-class-services .col-lg-6.lt-box {
+            padding-inline-end: 0;
+            padding: 0;
+            padding-inline: 20px;
+        }
+        .world-class-services .personal-detials {
+            margin-block-start: 50px;
+            width: 100%;
+            /* margin: 0 auto; */
+        }
+        .world-class-services .col-lg-6.rt-box .small-img {
+            display: none;
+        }
+        .world-class-services .col-lg-6.rt-box::after {
+            height: 110px;
+            display: none;
+        }
+        .world-class-services .col-lg-6.rt-box .container-image {
+            width: 100%;
+            margin: 0;
+        }
+        .counter-galleri .title-wrapper h2 {
+            font-size: 30px;
+            width: 70%;
+            margin: 0 auto;
+        }
+        .gallery-slider .image-box {
+            width: 100%;
+            margin: 0 -20px;
+        }
+        .gallery-slider .shape {
+            width: 280px;
+        }
+        .gallery-slider .shape::after {
+            width: 245px;
+        }
+        .company-logo {
+            width: 50%;
+            margin: 0 auto;
+        }
+        .company {
+            padding-block-end: 30px;
+        }
+        footer .col-lg-3.col-md-6.col-sm-6 {
+            padding-block-end: 30px;
+        }
+        nav .navbar .nav-links {
+            max-width: 100%;
+        }
+        
+    }
